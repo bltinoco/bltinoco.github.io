@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Journey of Bruno L. Tinoco
+title: Bruno L. Tinoco, _a little about me_
 date: 2023-07-10
 categories:
 ---
