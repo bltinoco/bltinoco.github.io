@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Jekyll Markdown
-date: 2021-11-04
-categories: ["jekyll", "Test Post", "first post"]
+title: Journey of Bruno L. Tinoco
+date: 2023-07-10
+categories:
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`
