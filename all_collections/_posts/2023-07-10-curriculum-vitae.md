@@ -62,7 +62,7 @@ SUZAQUIM (Brazil) https://suzaquim.com.br/
 -	Collaborated with cross-functional teams to troubleshoot issues and maintain accurate and reliable analytical processes.
 __________________________________________________________________________________________________________________________________________________________________
 ## Course Project:
-<strong>Instituto Mauá de Tecnologia (Brazil)</strong>                                                                                       Feb/2018 – Dec/2018
+<strong>Instituto Mauá de Tecnologia (Brazil)</strong>                                                                                      Feb/2018 – Dec/2018
 Recovery of Caustic Soda from Dairy Industry Equipment Cleaning Processes
 -	Collaborated with colleagues on a course completion project focused on developing sustainable solutions for the dairy industry.
 -	Utilized ultrafiltration techniques to recover caustic soda from equipment cleaning processes.
