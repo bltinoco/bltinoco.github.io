@@ -7,9 +7,9 @@ categories:
 
 # Curriculum Vitae
 
-<b>Bachelor’s degree in chemical engineering</b> in Brazil with a strong financial management background and a deep interest in transitioning into a <strong>4th Class Power Engineer</strong> role in Canada. Eager to leverage analytical skills, problem-solving abilities, and engineering knowledge to contribute effectively to power plant operations. Skilled with a technical expertise, safety-conscious approach, and unwavering commitment to efficiency, I thrive in dynamic environments and contribute to the seamless operation of power facilities. My diverse experiences underscore my ability to make valuable contributions to different teams.
+<strong>Bachelor’s degree in chemical engineering</strong> in Brazil with a strong financial management background and a deep interest in transitioning into a <strong>4th Class Power Engineer</strong> role in Canada. Eager to leverage analytical skills, problem-solving abilities, and engineering knowledge to contribute effectively to power plant operations. Skilled with a technical expertise, safety-conscious approach, and unwavering commitment to efficiency, I thrive in dynamic environments and contribute to the seamless operation of power facilities. My diverse experiences underscore my ability to make valuable contributions to different teams.
 
-Fourth Class Power Engineer's Certificate of Competency
+<strong>Fourth Class Power Engineer's Certificate of Competency</strong>
 Advanced English and native Portuguese.
 
 ## Key Skills:
@@ -45,14 +45,14 @@ Instituto Mauá de Tecnologia (Brazil)
 __________________________________________________________________________________________________________________________________________________________________
 ## Professional Experience
 
-Career Break - Financial manager                                                                                                   Jan/2018 – Jul/2021
+<strong>Career Break - Financial manager</strong>                                                                                           Jan/2018 – Jul/2021
 While I was preparing financially to come to Canada to study, I worked as a financial manager for a company called Loterica Caixa Economica (Brazil).
 •	Managed financial operations, budgeting, and forecasting, ensuring efficient allocation of resources.
 •	Conducted financial analysis and provided strategic recommendations to improve profitability.
 •	Collaborated with cross-functional teams to streamline processes, resulting in operational costs.
 •	Developed financial reports and presentations for executive decision-making.
 
-Laboratory Analyst                                                                                                                         Feb/2017 – Out/2017                                                                                                             
+<strong>Laboratory Analyst</strong>                                                                                                          Feb/2017 – Out/2017                                                                                                             
 SUZAQUIM (Brazil) https://suzaquim.com.br/ 
 -	Conducted laboratory analysis to determine product quality using various techniques including Chromatography, Spectrophotometry, and Dry Mass Testing.
 -	Utilized chromatographic methods such as High-Performance Liquid Chromatography (HPLC) to analyze chemical composition and purity of samples.
@@ -62,7 +62,7 @@ SUZAQUIM (Brazil) https://suzaquim.com.br/
 -	Collaborated with cross-functional teams to troubleshoot issues and maintain accurate and reliable analytical processes.
 __________________________________________________________________________________________________________________________________________________________________
 ## Course Project:
-Instituto Mauá de Tecnologia (Brazil)                                                                                           Feb/2018 – Dec/2018
+<strong>Instituto Mauá de Tecnologia (Brazil)</strong>                                                                                       Feb/2018 – Dec/2018
 Recovery of Caustic Soda from Dairy Industry Equipment Cleaning Processes
 -	Collaborated with colleagues on a course completion project focused on developing sustainable solutions for the dairy industry.
 -	Utilized ultrafiltration techniques to recover caustic soda from equipment cleaning processes.
@@ -77,7 +77,7 @@ Skills:
                                                                               
 			                                  
 
-References available upon request
+<strong>References available upon request</strong>
 
 
 
