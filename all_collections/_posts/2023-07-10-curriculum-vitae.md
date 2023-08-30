@@ -7,7 +7,7 @@ categories:
 
 
 
-Bachelor’s degree in chemical engineering in Brazil with a strong financial management background and a deep interest in transitioning into a 4th Class Power Engineer role in Canada. Eager to leverage analytical skills, problem-solving abilities, and engineering knowledge to contribute effectively to power plant operations. Skilled with a technical expertise, safety-conscious approach, and unwavering commitment to efficiency, I thrive in dynamic environments and contribute to the seamless operation of power facilities. My diverse experiences underscore my ability to make valuable contributions to different teams.
+<b>Bachelor’s degree in chemical engineering</b> in Brazil with a strong financial management background and a deep interest in transitioning into a 4th Class Power Engineer role in Canada. Eager to leverage analytical skills, problem-solving abilities, and engineering knowledge to contribute effectively to power plant operations. Skilled with a technical expertise, safety-conscious approach, and unwavering commitment to efficiency, I thrive in dynamic environments and contribute to the seamless operation of power facilities. My diverse experiences underscore my ability to make valuable contributions to different teams.
 
 Fourth Class Power Engineer's Certificate of Competency
 Advanced English and native Portuguese.
