@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Curriculum Vitae
-date: 2026-01-05 16:50:00
+date: 2026-01-07 16:50:00
 categories: 
 ---
 
