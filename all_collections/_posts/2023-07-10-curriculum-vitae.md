@@ -49,21 +49,21 @@ Instituto Mauá de Tecnologia (Brazil)
 __________________________________________________________________________________________________________________________________________________________________
 ## Professional Experience
 
-<strong>Sous-Chef</strong>                                                                                                                  Jul/2025 – Current
+<strong>Sous-Chef</strong>                                                                                                                  Jul/2025 – Current.
 
 Catania Market and Deli (Fifth Avenue Place/Calgary). 
 
-• Plan and execute daily menus, incorporating seasonal ingredients and cost-effective practices; 
-• Ensure all food meets quality, presentation, and taste standards; 
-• Prepare and cook complete meals and dishes; 
-• Lead kitchen operations in the Executive Chef’s absence; 
-• Supervise and train kitchen staff; 
-• Monitor inventory levels and order supplies; 
-• Collaborate with front-of-house staff to ensure excellent guest satisfaction and timely services; 
-• Inspect food preparation and storage areas to ensure quality control and consistency; 
-• Manage task assignments for kitchen staff. 
+• Plan and execute daily menus, incorporating seasonal ingredients and cost-effective practices;
+• Ensure all food meets quality, presentation, and taste standards;
+• Prepare and cook complete meals and dishes;
+• Lead kitchen operations in the Executive Chef’s absence;
+• Supervise and train kitchen staff;
+• Monitor inventory levels and order supplies;
+• Collaborate with front-of-house staff to ensure excellent guest satisfaction and timely services;
+• Inspect food preparation and storage areas to ensure quality control and consistency;
+• Manage task assignments for kitchen staff.
 
-<strong>Line Cook</strong>                                                                                                                  Sep/2023 – Jul/2025
+<strong>Line Cook</strong>                                                                                                                  Sep/2023 – Jul/2025.
 
 Catania Market and Deli (Fifth Avenue Place/Calgary). 
 
@@ -79,7 +79,7 @@ Catania Market and Deli (Fifth Avenue Place/Calgary).
 • Ensure exceptional customer service by resolving customer inquiries, addressing complaints, and 
 maintaining a friendly and welcoming atmosphere.
 
-<strong>Career Break - Financial manager</strong>                                                                                           Jan/2018 – Jul/2021
+<strong>Career Break - Financial manager</strong>                                                                                           Jan/2018 – Jul/2021.
 
 While I was preparing financially to come to Canada to study, I worked as a financial manager for a company called Loterica Caixa Economica (Brazil).
 
@@ -88,7 +88,7 @@ While I was preparing financially to come to Canada to study, I worked as a fina
 •	Collaborated with cross-functional teams to streamline processes, resulting in operational cost.
 •	Developed financial reports and presentations for executive decision-making.
 
-<strong>Laboratory Analyst</strong>                                                                                                          Feb/2017 – Out/2017
+<strong>Laboratory Analyst</strong>                                                                                                          Feb/2017 – Out/2017.
 
 SUZAQUIM (Brazil) https://suzaquim.com.br/ 
 
@@ -100,7 +100,7 @@ SUZAQUIM (Brazil) https://suzaquim.com.br/
 -	Collaborated with cross-functional teams to troubleshoot issues and maintain accurate and reliable analytical processes.
 __________________________________________________________________________________________________________________________________________________________________
 ## Course Project:
-<strong>Instituto Mauá de Tecnologia (Brazil)</strong>                                                                                      Feb/2018 – Dec/2018
+<strong>Instituto Mauá de Tecnologia (Brazil)</strong>                                                                                      Feb/2018 – Dec/2018.
 
 Recovery of Caustic Soda from Dairy Industry Equipment Cleaning Processes
 -	Collaborated with colleagues on a course completion project focused on developing sustainable solutions for the dairy industry.
