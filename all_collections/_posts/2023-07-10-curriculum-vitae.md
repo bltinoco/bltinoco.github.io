@@ -53,40 +53,40 @@ ________________________________________________________________________________
 
 Catania Market and Deli (Fifth Avenue Place/Calgary). 
 
-• Plan and execute daily menus, incorporating seasonal ingredients and cost-effective practices;
-• Ensure all food meets quality, presentation, and taste standards;
-• Prepare and cook complete meals and dishes;
-• Lead kitchen operations in the Executive Chef’s absence;
-• Supervise and train kitchen staff;
-• Monitor inventory levels and order supplies;
-• Collaborate with front-of-house staff to ensure excellent guest satisfaction and timely services;
-• Inspect food preparation and storage areas to ensure quality control and consistency;
-• Manage task assignments for kitchen staff.
-
+- Plan and execute daily menus, incorporating seasonal ingredients and cost-effective practices;
+- Ensure all food meets quality, presentation, and taste standards;
+- Prepare and cook complete meals and dishes;
+- Lead kitchen operations in the Executive Chef’s absence;
+- Supervise and train kitchen staff;
+- Monitor inventory levels and order supplies;
+- Collaborate with front-of-house staff to ensure excellent guest satisfaction and timely services;
+- Inspect food preparation and storage areas to ensure quality control and consistency;
+- Manage task assignments for kitchen staff.
+  
 <strong>Line Cook</strong>                                                                                                                  Sep/2023 – Jul/2025.
 
 Catania Market and Deli (Fifth Avenue Place/Calgary). 
 
-• Provide support in the area of cooking; 
-• Washes, cuts, and prepares food and ingredients for cooking; 
-• Prepare and cook complete meals and dishes; 
-• Prepare the kitchen tools necessary for cooking and cleaning; 
-• Use manual and electric appliances for food preparation; 
-• Organize the storage areas and shelves in the kitchen; 
-• Respond to the needs of Chefs and other cooking staff; 
-• Ensure food is properly stored and safely handled for consumption; 
-• Set up and oversee buffet;  
-• Ensure exceptional customer service by resolving customer inquiries, addressing complaints, and 
+- Provide support in the area of cooking; 
+- Washes, cuts, and prepares food and ingredients for cooking; 
+- Prepare and cook complete meals and dishes; 
+- Prepare the kitchen tools necessary for cooking and cleaning; 
+- Use manual and electric appliances for food preparation; 
+- Organize the storage areas and shelves in the kitchen; 
+- Respond to the needs of Chefs and other cooking staff; 
+- Ensure food is properly stored and safely handled for consumption; 
+- Set up and oversee buffet;  
+- Ensure exceptional customer service by resolving customer inquiries, addressing complaints, and 
 maintaining a friendly and welcoming atmosphere.
 
 <strong>Career Break - Financial manager</strong>                                                                                           Jan/2018 – Jul/2021.
 
 While I was preparing financially to come to Canada to study, I worked as a financial manager for a company called Loterica Caixa Economica (Brazil).
 
-•	Managed financial operations, budgeting, and forecasting, ensuring efficient allocation of resources.
-•	Conducted financial analysis and provided strategic recommendations to improve profitability.
-•	Collaborated with cross-functional teams to streamline processes, resulting in operational cost.
-•	Developed financial reports and presentations for executive decision-making.
+-	Managed financial operations, budgeting, and forecasting, ensuring efficient allocation of resources.
+-	Conducted financial analysis and provided strategic recommendations to improve profitability.
+-	Collaborated with cross-functional teams to streamline processes, resulting in operational cost.
+-	Developed financial reports and presentations for executive decision-making.
 
 <strong>Laboratory Analyst</strong>                                                                                                          Feb/2017 – Out/2017.
 
@@ -109,10 +109,10 @@ Recovery of Caustic Soda from Dairy Industry Equipment Cleaning Processes
 -	Contributed to minimizing waste and environmental impact by converting a potential effluent stream into a reusable resource.
 -	Presented findings and project outcomes to faculty members and peers, showcasing effective teamwork and technical skills.
 		<strong>Skills:</strong>
-•	Proficient in laboratory techniques including ultrafiltration, chromatography, and spectrophotometry.
-•	Strong analytical and problem-solving abilities.
-•	Effective communication and collaboration skills.
-•	Detail-oriented and skilled in data recording and interpretation.
+-	Proficient in laboratory techniques including ultrafiltration, chromatography, and spectrophotometry.
+-	Strong analytical and problem-solving abilities.
+-	Effective communication and collaboration skills.
+-	Detail-oriented and skilled in data recording and interpretation.
                                                                               
 			                                  
 
